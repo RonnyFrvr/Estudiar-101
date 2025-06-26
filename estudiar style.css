@@ -1,0 +1,50 @@
+h1{
+    color: antiquewhite;
+    background-color: chocolate;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+
+}
+body{
+    background-color: coral;
+}
+
+head{
+    background-color: chocolate;
+}
+p{
+    color: aliceblue;
+}
+
+a{
+    color: black;
+}
+#Iframe{
+    float: left;
+    border-width: 5px;
+    border-color: bisque;
+    border-radius: 10px;
+}
+
+b{
+    color: darkred;
+}
+#brown{
+    color: brown;
+}
+#white{
+    color: whitesmoke;
+}
+#pink{
+    color: deeppink;
+}
+#green{
+    color: chartreuse;
+}
+#blue{
+    color: blue;
+}
+#close123{
+    color: black;
+}
